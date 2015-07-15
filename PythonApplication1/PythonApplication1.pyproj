@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>59f5ce1b-bfba-48ba-a59e-bcfd992f1592</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>condition.py</StartupFile>
+    <StartupFile>turtule_for_while.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -26,6 +26,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="date.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="turtule_for_while.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="VariableNumbersprint.py" />
