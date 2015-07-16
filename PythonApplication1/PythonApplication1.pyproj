@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>59f5ce1b-bfba-48ba-a59e-bcfd992f1592</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>turtule_for_while.py</StartupFile>
+    <StartupFile>function_error_handling.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -26,6 +26,15 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="date.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="file.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="function_error_handling.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="list.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="turtule_for_while.py">
